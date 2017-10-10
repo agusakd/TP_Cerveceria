@@ -10,3 +10,5 @@ Interfaz dao posee los siguientes metodos:
 -actualizan (recibe un $dato)
 
 TODOS los DAO usan(heredan) el patron simpleton e implenentan la interfaz
+
+edit 1
